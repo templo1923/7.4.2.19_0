@@ -44,7 +44,7 @@ const w = {
   // Url do audio transcriber
   audio_transcriber: "https://audio-transcriber.wascript.com.br/transcription",
   // Selector de elementos DOM
-  domSelector: "https://miquecrm.com/api/domselector",
+  domSelector: "https://domselector.watidy.com/index.php",
   // Limite de mídia no Resposta Rápida
   midiaLimit: 50
 };
